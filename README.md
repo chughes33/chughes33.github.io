@@ -1,3 +1,6 @@
 # chughes33.github.io
 My Website!
-This is my personal website to allow me to practice front end!
+
+A website I began building this summer to begin teaching myself HTML and CSS, and also have a place to store past CS projects. 
+
+
